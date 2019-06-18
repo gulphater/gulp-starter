@@ -5,7 +5,7 @@ import sourcemaps from 'gulp-sourcemaps';
 import scss from 'gulp-sass';
 import concat from 'gulp-concat';
 import imagemin from 'gulp-image';
-import uglify from 'gulp-uglify';
+import uglify from 'gulp-uglify-es';
 import htmlmin from 'gulp-htmlmin';
 import plumber from 'gulp-plumber';
 import gcmq from 'gulp-group-css-media-queries';
