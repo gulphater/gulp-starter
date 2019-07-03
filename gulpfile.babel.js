@@ -27,7 +27,7 @@ let path = {
         watch: "./src/styles/**/*.scss"
     },
     scripts: {
-        src: "./src/js/main.js",
+        src: "./src/js/*.js",
         build: "./build/js/",
         watch: "./src/js/**/*.js"
     },
